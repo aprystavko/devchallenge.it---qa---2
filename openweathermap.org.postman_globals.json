@@ -1,0 +1,135 @@
+{
+  "id": "c9b7d730-96c1-4982-818e-4567d24ce011",
+  "values": [
+    {
+      "key": "Kiev",
+      "value": "Kiev",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Cape Town",
+      "value": "Cape Town",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Mumbai",
+      "value": "Mumbai",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Sydney",
+      "value": "Sydney",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Ottawa",
+      "value": "Ottawa",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Buenos Aires",
+      "value": "Buenos Aires",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Nuuk",
+      "value": "Nuuk",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Kiev_id",
+      "value": "703448",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Cape Town_id",
+      "value": "3369157",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Mumbai_id",
+      "value": "1275339",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Sydney_id",
+      "value": "2147714",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Ottawa_id",
+      "value": "6094817",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Buenos Aires_id",
+      "value": "3435910",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Nuuk_id",
+      "value": "3421319",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "date",
+      "value": "2018-05Z",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "trigger_start_date",
+      "value": "1483232400",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "trigger_end_date",
+      "value": "1514764799",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "kiev_lat",
+      "value": "50.43",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "kiev_lon",
+      "value": "30.53",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "start_date",
+      "value": "1498089600",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "end_date",
+      "value": "1498780800",
+      "enabled": true,
+      "type": "text"
+    }
+  ],
+  "name": "openweathermap.org Globals",
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2018-06-03T20:28:14.363Z",
+  "_postman_exported_using": "Postman/6.1.3"
+}

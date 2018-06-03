@@ -1,0 +1,93 @@
+{
+  "id": "e1894dec-1a7a-401f-8e15-7104f21ee4c7",
+  "values": [
+    {
+      "key": "Kiev",
+      "value": "Kiev",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Cape Town",
+      "value": "Cape Town",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Mumbai",
+      "value": "Mumbai",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Sydney",
+      "value": "Sydney",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Ottawa",
+      "value": "Ottawa",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Buenos Aires",
+      "value": "Buenos Aires",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Nuuk",
+      "value": "Nuuk",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Kiev_id",
+      "value": "703448",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Cape Town_id",
+      "value": "3369157",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Mumbai_id",
+      "value": "1275339",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Sydney_id",
+      "value": "2147714",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Ottawa_id",
+      "value": "6094817",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Buenos Aires_id",
+      "value": "3435910",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "Nuuk_id",
+      "value": "3421319",
+      "enabled": true,
+      "type": "text"
+    }
+  ],
+  "name": "OpenWeatherMap Globals",
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2018-06-01T19:07:15.485Z",
+  "_postman_exported_using": "Postman/6.1.3"
+}
